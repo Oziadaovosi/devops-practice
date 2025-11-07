@@ -4,3 +4,5 @@ This is a new update made on the dev brnch by Vincent.
 This change causes an error! ⚠️
 Feature-A added
 
+Feature-B added
+
